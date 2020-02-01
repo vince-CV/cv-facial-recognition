@@ -3,3 +3,6 @@ data/.gitkeep
 data/
 Conventional Faces Recognition/TraditionalFaceRecognition/
 Conventional Faces Recognition/.vs/
+
+Deep learning Face Recognition/DeepLearningFaceRecognition/
+Deep learning Face Recognition/.vs

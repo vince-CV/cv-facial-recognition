@@ -6,3 +6,9 @@ Conventional Faces Recognition/.vs/
 
 Deep learning Face Recognition/DeepLearningFaceRecognition/
 Deep learning Face Recognition/.vs
+
+
+look alike/celeb_mini/
+look alike/test-images/
+look alike/dlib_face_recognition_resnet_model_v1.dat
+look alike/shape_predictor_68_face_landmarks.dat
